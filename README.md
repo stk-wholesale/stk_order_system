@@ -4,6 +4,7 @@ Based on our existing products, we need to provide a website for clients to make
 # Tech stack
 JDK 21
 Springboot
+Maven
 Intellij
 
 # Test
